@@ -58,3 +58,9 @@
 1. [Input Data Collection Best Practices](https://github.com/Fyusion/LLFF?tab=readme-ov-file#using-your-own-input-images-for-view-synthesis)
 
 2. [Apple's Pointersect: Neural Rendering with Cloud-Ray Intersection](https://github.com/apple/ml-pointersect)
+
+
+# DATA SOURCES:
+
+Wooden Plane:
+https://www.turbosquid.com/3d-models/wooden-plane-toy-1395253
