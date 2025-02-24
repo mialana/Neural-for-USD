@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - wf
     paths-ignore:
       - '**.md'
       - 'LICENSE'
