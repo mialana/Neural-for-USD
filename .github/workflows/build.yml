@@ -72,11 +72,11 @@ jobs:
 
   # Run automated code formatting checks.
   code-formatting-check:
-    runs-on: ubuntu-22.04 
+    runs-on: macos-latest
     steps:
-      - name: Install dependencies (Linux)
+      - name: Install dependencies (Mac)
         run: |
-          sudo apt-get install clang-format-13
+          brew install clang-format
       - uses: actions/checkout@v2
       - name: Run clang-format on source code
         run: |
